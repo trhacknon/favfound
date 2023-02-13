@@ -12,7 +12,7 @@ This code was made to extract the fabicon hash from your desired IP address or U
 Clone repository:  
 
 ```  
-$ git clone https://github.com/elihypoo414/favfound.git  
+$ git clone https://github.com/trhacknon/favfound.git  
 ```
 
 ```  
